@@ -15,5 +15,3 @@ if keanggotaan == 'ya':
     harga_tiket = harga_tiket - diskon
 
 print(f"Harga tiket yang harus dibayar: Rp.{harga_tiket:.00f}")
-
-# Error kalau input di bawah 5 terus keanggotaannya ya

@@ -30,5 +30,3 @@ if kehadiran >= 75 :
 else :
     predikat = 'Tidak lulus'
 print(predikat)
-
-# tidak bisa ter-print kalau input-an nilai nya <= 60 dan kehadirannya < 75s
